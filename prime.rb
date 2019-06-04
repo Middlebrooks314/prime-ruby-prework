@@ -8,4 +8,5 @@ def prime? (num)
     end
   return TRUE
 end
+end
 
